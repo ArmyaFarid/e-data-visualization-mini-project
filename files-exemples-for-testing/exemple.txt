@@ -1,0 +1,1 @@
+Ceci est un texte d'exemple en français. Il contient quelques mots qui seront traités par l'application. L'application générera un nuage de mots et affichera les statistiques des mots. C'est un test simple pour vérifier le fonctionnement de l'application.
